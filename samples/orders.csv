@@ -1,0 +1,4 @@
+order_id,person,post,paid,refund,state
+O1,U1,P1,220,0,settled
+O2,U1,P2,180,45,settled
+O3,U2,,150,0,unattributed

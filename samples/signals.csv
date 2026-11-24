@@ -1,0 +1,4 @@
+record,post,metric,value,window
+S1,P1,views,18000,7d
+S2,P2,platform-orders,44,14d
+S3,P3,visits,120,30d
